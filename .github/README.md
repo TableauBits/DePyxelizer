@@ -1,8 +1,8 @@
-# Projet INF8801A - Session A22
+# Projet INF8801A - Session A21
 
 Groupe A :
-  - Mathis Lamidey, 1954023
-  - Hugo Vandenbroucke-Menu, 1955531
+  - Mathis Lamidey, @Ithyx
+  - Hugo Vandenbroucke-Menu, @thehyouz
 
 Notre projet consistait à ré-implémenter en parti l'article "Depixelizing Pixel Art" de Johannes Kopf et Dani Lischinski.
 Disponible ici : https://johanneskopf.de/publications/pixelart/paper/pixel.pdf
