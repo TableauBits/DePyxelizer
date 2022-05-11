@@ -2,7 +2,7 @@
 
 Groupe A :
   - Mathis Lamidey, @Ithyx
-  - Hugo Vandenbroucke-Menu, @thehyouz
+  - Hugo Vandenbroucke-Menu, @hvdbm
 
 Notre projet consistait à ré-implémenter en parti l'article "Depixelizing Pixel Art" de Johannes Kopf et Dani Lischinski.
 Disponible ici : https://johanneskopf.de/publications/pixelart/paper/pixel.pdf
